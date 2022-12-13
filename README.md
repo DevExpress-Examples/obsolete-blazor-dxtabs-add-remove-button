@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Blazor Tabs - Add the Close Tab Button
 
-You can implement a button that closes a tab.
+You can implement a button that closes a tab. 
 
 ![Tabs with Close Buttons](./result.png)
 
