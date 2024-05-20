@@ -2,7 +2,7 @@
 
 <DxTabs>
     @foreach(var tab in TabList) {
-        <DxTabPage>
+        <DxTabPage @key="@tab">
             <TextTemplate>
                 <div>
                     @tab
